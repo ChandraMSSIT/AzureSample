@@ -55,18 +55,6 @@
 							},
 							{
 								"source": {
-									"name": "Salary",
-									"type": "Int64",
-									"physicalType": "bigint"
-								},
-								"sink": {
-									"name": "Salary",
-									"type": "Int32",
-									"physicalType": "int"
-								}
-							},
-							{
-								"source": {
 									"name": "DepId",
 									"type": "Int64",
 									"physicalType": "bigint"
