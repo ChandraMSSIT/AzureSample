@@ -25,11 +25,7 @@
 						"writeBehavior": "upsert",
 						"upsertSettings": {
 							"useTempDB": true,
-							"keys": [
-								"EmpId",
-								"EmpName",
-								"Salary"
-							]
+							"keys": []
 						},
 						"sqlWriterUseTableLock": false,
 						"disableMetricsCollection": false
