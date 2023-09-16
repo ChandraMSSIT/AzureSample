@@ -106,7 +106,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/mrcharan5998@gmail.com/Employee_Notebook"
+					"notebookPath": "/Users/mrcharan5998@gmail.com/Employee_Notebook",
+					"baseParameters": {
+						"tablelocation": "/FileStore/tables/"
+					}
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
