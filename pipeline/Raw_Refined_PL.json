@@ -108,7 +108,7 @@
 				"typeProperties": {
 					"notebookPath": "/Users/mrcharan5998@gmail.com/Employee_Notebook",
 					"baseParameters": {
-						"tablelocation": "/FileStore/tables/"
+						"tablelocation": "chandramohan"
 					}
 				},
 				"linkedServiceName": {
